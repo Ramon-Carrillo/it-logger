@@ -6,13 +6,6 @@
       "tech": "John Doe",
       "date": "2021-12-27T22:14:18.452Z",
       "id": 1
-    },
-    {
-      "message": "hello mr mr mr get me out of here",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2021-12-27T22:14:40.114Z",
-      "id": 2
     }
   ],
   "techs": [
