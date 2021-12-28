@@ -1,11 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "my computer is not working ",
       "attention": false,
       "tech": "John Doe",
-      "date": "2021-12-27T22:14:18.452Z",
-      "id": 1
+      "date": "2021-12-28T00:26:43.080Z"
+    },
+    {
+      "id": 2,
+      "message": "The copier is not working",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-12-28T00:27:03.584Z"
     }
   ],
   "techs": [
